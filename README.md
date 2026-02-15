@@ -6,11 +6,11 @@
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/linuxcontainers/alpine?logo=docker&style=for-the-badge)](https://hub.docker.com/r/linuxcontainers/alpine)
 
 
-[![Alpine Version](https://img.shields.io/badge/Alpine%20version-v3.17.0-green.svg?style=for-the-badge)](https://alpinelinux.org/)
+[![Alpine Version](https://img.shields.io/badge/Alpine%20version-v3.23.0-green.svg?style=for-the-badge)](https://alpinelinux.org/)
 
 This Docker Image [(linuxcontainers/alpine)](https://hub.docker.com/r/linuxcontainers/alpine/) is based on the minimal [Alpine Linux](https://alpinelinux.org/).
 
-##### Alpine Version 3.20.0 (Released May 22, 2024)
+##### Alpine Version 3.23.0 (Released December 03, 2025)
 
 This docker image is the base Alpine Linux. For more info on versions & support see [Releases](https://alpinelinux.org/releases/)
 
